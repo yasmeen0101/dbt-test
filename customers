@@ -1,1 +1,1 @@
-select * from 'dbt-tutorial.jaffle_shop.customers'
+select * from 'dbt-test.jaffle-shop.raw_customers'
