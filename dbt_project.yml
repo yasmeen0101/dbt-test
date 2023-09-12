@@ -23,7 +23,7 @@ vars:
 
 seeds:
   jaffle_shop:
-    +schema: jaffle_shop_raw
+    +schema: jaffle_shop
 
 models:
   jaffle_shop:
